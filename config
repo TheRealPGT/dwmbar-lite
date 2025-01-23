@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # What modules, in what order
-MODULES="weather volumebar wifi internet cpuload cputemp date time"
+MODULES="wifi date time"
 
 # Modules that require an active internet connection
-ONLINE_MODULES="weather internet"
+ONLINE_MODULES="internet"
 
 # Delay between showing the status bar
 DELAY="0.05"
