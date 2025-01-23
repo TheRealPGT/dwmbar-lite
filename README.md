@@ -5,6 +5,10 @@ Note: To make dwmbar or dwmbar-lite start on dwm start up, add 'exec dwmbar' to 
 INSTALLATION:
 
 git clone https://github.com/TheRealPGT/dwmbar-lite
+
+
 cd dwmbar-lite
+
+
 sudo ./install.sh
 
