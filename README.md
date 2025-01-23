@@ -1,1 +1,1 @@
-A fork of dwmbar.
+A less featureful fork of dwmbar.
